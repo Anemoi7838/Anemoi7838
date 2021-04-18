@@ -1,4 +1,4 @@
-👋 Hi, I’m Mizuki Tanaka.\n
+<h1>👋 Hi, I’m Mizuki Tanaka.</h1>
 👀 I’m interested in Meteorology and international situation.
 🌱 I’m currently learning laravel.
 <!---
