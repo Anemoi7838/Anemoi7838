@@ -1,6 +1,6 @@
 <p>👋 Hi, I’m Mizuki Tanaka.<br>
 👀 I’m interested in Meteorology and international situation.<br>
-🌱 I’m currently learning laravel.
+🌱 I’m currently learning laravel.<br>
 <img src="http://118.27.13.183/pic/GIF/skyscape.gif">
 
 <!---
