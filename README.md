@@ -1,7 +1,7 @@
 <p>👋 Hi, I’m Mizuki Tanaka.<br>
 👀 I’m interested in Meteorology and international situation.<br>
 🌱 I’m currently learning laravel.<br>
-<img src="http://118.27.13.183/pic/GIF/skyscape.gif"><br>
+<img src="http://118.27.13.183/LabWebsite/pic/GIF/skyscape.gif"><br>
 If you are interested in this skyscape, please visit here. </p>
 <a href="http://118.27.13.183/LabWebsite/Timelapse.tpl.php">http://118.27.13.183/LabWensite/Timelapse.tpl.php</a>
 
