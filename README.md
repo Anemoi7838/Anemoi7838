@@ -1,6 +1,6 @@
 <p>👋 Hi, I’m Mizuki Tanaka.<br>
 👀 I’m interested in Meteorology and international situation.<br>
-🌱 I’m currently learning laravel.<br>
+🌱 I’m currently learning Flask.<br>
 <img src="http://118.27.13.183/LabWebsite/pic/GIF/skyscape.gif"><br>
 If you are interested in this skyscape, please visit here. </p>
 <a href="https://www.climateinfo.site/skyscape/">https://www.climateinfo.site/skyscape/</a>
